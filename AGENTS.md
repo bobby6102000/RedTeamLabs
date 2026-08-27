@@ -2,6 +2,10 @@
 
 This repository is for building an isolated, authorized red team training lab for company interns.
 
+## Current goal
+
+Keep the lab simple while the base challenge is built: one Vagrant VM, system updates, Apache, and a small CRUD web app that can be shared through Git and later surfaced to students through CTFd.
+
 ## Operating rules
 
 - Treat safety, authorization, and containment as first-class requirements.

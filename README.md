@@ -16,6 +16,7 @@ Build a simple CTF-style lab that interns can reproduce with Vagrant, update wit
 
 - [`docs/intern-task.md`](./docs/intern-task.md): the current handoff brief for one intern.
 - The current assignment is a single VM with updates, Apache, and a simple CRUD website backed by a database.
+- [`docs/college-ctf-lab-plan.md`](./docs/college-ctf-lab-plan.md): the approved-for-planning Phase 2 college portal CTF design and follow-on intern build task.
 
 ## Current shape
 

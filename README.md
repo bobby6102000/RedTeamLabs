@@ -8,22 +8,29 @@ Build a simple CTF-style lab that interns can reproduce with Vagrant, update wit
 
 ## Start here
 
-1. Read [`AGENTS.md`](./AGENTS.md).
+1. Read AGENTS.md.
 2. Keep the first pass simple.
 3. Add one small lab note at a time.
 
-## Intern Task
+## Intern Tasks
 
-- [`docs/intern-task.md`](./docs/intern-task.md): the current handoff brief for one intern.
-- The current assignment is a single VM with updates, Apache, and a simple CRUD website backed by a database.
-- [`docs/college-ctf-lab-plan.md`](./docs/college-ctf-lab-plan.md): the approved-for-planning Phase 2 college portal CTF design and follow-on intern build task.
+### Phase 1 (Complete)
+
+- docs/intern-task.md: the base VM setup - Vagrant, system updates, Apache, and a simple CRUD website backed by a database.
+- Status: Complete and accepted.
+
+### Phase 2 (Active)
+
+- docs/college-website-task.md: CURRENT ASSIGNMENT - build the Northbridge College Portal (student and admin website) on the existing VM.
+- docs/college-ctf-lab-plan.md: the approved Phase 2 design and CTF lab plan.
+- docs/beginner-ctf-flow.md: the intended learner journey for the CTF exercise.
 
 ## Current shape
 
-- `docs/`: small planning notes.
-- `infra/`: future environment setup.
-- `scenarios/`: future exercise notes.
-- `runbooks/`: future maintenance notes.
+- docs/: planning notes and task briefs.
+- infra/: future environment setup.
+- scenarios/: future exercise notes.
+- runbooks/: future maintenance notes.
 
 ## Guiding idea
 

@@ -19,11 +19,16 @@ Build a simple CTF-style lab that interns can reproduce with Vagrant, update wit
 - docs/intern-task.md: the base VM setup - Vagrant, system updates, Apache, and a simple CRUD website backed by a database.
 - Status: Complete and accepted.
 
-### Phase 2 (Active)
+### Phase 2 (Complete)
 
-- docs/college-website-task.md: CURRENT ASSIGNMENT - build the Northbridge College Portal (student and admin website) on the existing VM.
-- docs/college-ctf-lab-plan.md: the approved Phase 2 design and CTF lab plan.
-- docs/beginner-ctf-flow.md: the intended learner journey for the CTF exercise.
+- docs/college-website-task.md: college website build — student + admin portal on the existing VM.
+- Status: Complete and accepted. Website is live.
+
+### Phase 3 (Active) — CURRENT ASSIGNMENT
+
+- docs/phase3-production-task.md: **START HERE** — production hardening, hidden admin, credential spraying, and full-DB exfiltration objective.
+- docs/college-ctf-lab-plan.md: approved Phase 2 design (Phase 3 deltas are in the task doc above).
+- docs/beginner-ctf-flow.md: intended learner journey (Phase 3 extends the final stage).
 
 ## Current shape
 
